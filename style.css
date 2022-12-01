@@ -33,6 +33,7 @@ nav>a {
     border-radius: 10px;
     text-decoration: none;
     color: #ffffff;
+    box-shadow: 5px 5px 10px 0px #000000A0;
     transition: flex-grow ease-in-out 0.5s, background-color ease-in-out 0.25s;
 }
 
@@ -48,7 +49,7 @@ nav>a:hover {
     justify-content: space-between;
     background-color: #A8D0DB;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px 0px #6d5732A0;
+    box-shadow: 5px 5px 10px 0px #000000A0;
     margin: 10px;
 }
 
