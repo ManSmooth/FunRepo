@@ -29,10 +29,10 @@ nav>a {
     text-align: center;
     flex-grow: 1;
     padding: 10px;
-    background-color: #7180AC;
+    background-color: #000000;
     border-radius: 10px;
     text-decoration: none;
-    color: #ffffff;
+    color: #FFFFFF;
     box-shadow: 5px 5px 10px 0px #000000A0;
     transition: flex-grow ease-in-out 0.5s, background-color ease-in-out 0.25s;
 }
@@ -40,14 +40,14 @@ nav>a {
 nav>a:hover {
     max-width: none;
     flex-grow: 2;
-    background-color: #535e7e;
+    background-color: #1f2c41;
 }
 
 .info-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: #A8D0DB;
+    background-color: #FFFFFF;
     border-radius: 10px;
     box-shadow: 5px 5px 10px 0px #000000A0;
     margin: 10px;
